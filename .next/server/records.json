@@ -1,0 +1,43 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/_error.js": 0,
+      "multi private-next-pages/channel.js": 1,
+      "multi private-next-pages/index.js": 2,
+      "multi private-next-pages/podcast.js": 3,
+      "multi next/dist/pages/_app": 4,
+      "multi next/dist/pages/_document": 5
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5
+    }
+  },
+  "chunks": {
+    "byName": {
+      "init-server.js": 0,
+      "on-error-server.js": 1,
+      "static/hL7d-_VchE5EPJY4b-eiG/pages/_app.js": 2,
+      "static/hL7d-_VchE5EPJY4b-eiG/pages/_document.js": 3,
+      "static/hL7d-_VchE5EPJY4b-eiG/pages/_error.js": 4,
+      "static/hL7d-_VchE5EPJY4b-eiG/pages/channel.js": 5,
+      "static/hL7d-_VchE5EPJY4b-eiG/pages/index.js": 6,
+      "static/hL7d-_VchE5EPJY4b-eiG/pages/podcast.js": 7
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}

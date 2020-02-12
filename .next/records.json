@@ -1,0 +1,39 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi next-client-pages-loader?page=%2F_app&absolutePagePath=next%2Fdist%2Fpages%2F_app! node_modules/next/dist/client/router.js": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "framework": 2,
+      "fdec49a823872667f5585faea7418288a9497e1b": 3,
+      "static/hL7d-_VchE5EPJY4b-eiG/pages/_app.js": 4,
+      "static/hL7d-_VchE5EPJY4b-eiG/pages/_error.js": 5,
+      "static/hL7d-_VchE5EPJY4b-eiG/pages/channel.js": 6,
+      "static/hL7d-_VchE5EPJY4b-eiG/pages/index.js": 7,
+      "static/hL7d-_VchE5EPJY4b-eiG/pages/podcast.js": 8,
+      "static/runtime/main.js": 9,
+      "static/runtime/polyfills.js": 10
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
