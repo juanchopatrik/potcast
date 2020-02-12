@@ -1,18 +1,18 @@
-# App de Potcast con Next.js
+# Potcast App with Next.js
 
 
-App de postcast integrada con la API de AudioBoom para aprender Next.js
+Postcast app integrated with the AudioBoom API to learn Next.js
 
-![captura de la App](./.readme-static/Screenshot.png)
 
-## Como Funciona ?
 
-Requiere Node.js 
+## How does it work ?
 
-*`npm install` para instalar dependencias.
-*`npm run dev` para el entorno de desarrollo.
-*`npm run build && npm start` para el entorno de producción.
+Requires Node.js
 
-##Licencia
+* `npm install` to install dependencies.
+* `npm run dev` for the development environment.
+* `npm run build && npm start` for the production environment.
+
+##License
 
 MIT
