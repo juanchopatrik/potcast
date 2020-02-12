@@ -1,6 +1,18 @@
-# Curso de Next.JS en Platzi
+# App de Potcast con Next.js
 
-Este repositorio contiene todo el contenido del curso a medida que construimos una app para ver podcasts con la API de Audioboom.
 
-Hay un branch por clase para que puedas navegar con facilidad el curso.
+App de postcast integrada con la API de AudioBoom para aprender Next.js
 
+![captura de la App](./.readme-static/Screenshot.png)
+
+## Como Funciona ?
+
+Requiere Node.js 
+
+*`npm install` para instalar dependencias.
+*`npm run dev` para el entorno de desarrollo.
+*`npm run build && npm start` para el entorno de producción.
+
+##Licencia
+
+MIT
